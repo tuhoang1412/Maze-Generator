@@ -1,3 +1,3 @@
-Maze Generator with given input from command line (default input is 10).
+This python script is implemented using the Depth First Search algorithm to generate the random maze.
 
-The python script is implemented using the Depth First Search algorithm.
+"Maze Generator" takes user input from command line (default input is 7).
