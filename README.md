@@ -7,5 +7,5 @@ algorithm to find a unique path with a bit of randomness when picking the next p
 
 ## Randomized mazes
 
-<a href="https://imgur.com/gallery/grqNBPV"><img src="https://imgur.com/gallery/grqNBPV" title="maze gif" /></a>
+<a href="https://imgur.com/gallery/grqNBPV"><img src="https://i.imgur.com/6w3SV3E.gif" title="maze gif" /></a>
 GIF created with [ezgif](https://ezgif.com/).
